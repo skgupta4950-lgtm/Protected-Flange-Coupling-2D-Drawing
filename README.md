@@ -183,7 +183,7 @@ The following screenshot shows the completed Protected Flange Coupling drawing d
 
 <p align="center">
 
-![Protected Flange Coupling 2D CAD Drawing](assets/protected-flange-coupling-2d.png)
+![Protected Flange Coupling 2D CAD Drawing](protected-flange-coupling-2d.png)
 
 </p>
 
